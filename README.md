@@ -8,6 +8,6 @@ Demo id || Pass :
      
 You can send money, request for loan, sort transactions, keep track of your transactions with dates.
 
-Note: Remember you can only use 'hs' and 'br' id while sendind money.
+Note: Remember you can only use 'hs' and 'br' id while sendind money. And use id for sending money other than your are logged in with.
 
 Note: Remember be active while using your account or the timer will log you out
